@@ -22,4 +22,11 @@ public class MainActivity extends AppCompatActivity {
     public void qiudiandian(View view) {
         Toast.makeText(this, "点点俺干啥呢", Toast.LENGTH_SHORT).show();
     }
+
+    public void qiudiandiandian(View view) {
+
+        Toast.makeText(this, "点点大大大大大多多多多多多多多多多多点俺干啥呢", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "点点点俺干啥呢", Toast.LENGTH_SHORT).show();
+
+    }
 }
