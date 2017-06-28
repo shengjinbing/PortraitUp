@@ -18,4 +18,8 @@ public class MainActivity extends AppCompatActivity {
     public void qiudian(View view) {
         Toast.makeText(this, "点俺干啥呢", Toast.LENGTH_SHORT).show();
     }
+
+    public void qiudiandian(View view) {
+        Toast.makeText(this, "点点俺干啥呢", Toast.LENGTH_SHORT).show();
+    }
 }
