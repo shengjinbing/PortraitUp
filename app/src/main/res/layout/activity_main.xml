@@ -27,6 +27,19 @@
         android:text="求点点"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
+    <Button
+        android:onClick="qiudiandiandian"
+        android:text="求点点点"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:onClick="qiudiandiandiandian"
+        android:text="求点点点点"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+
 
 
 </LinearLayout>
