@@ -33,4 +33,8 @@ public class MainActivity extends AppCompatActivity {
     public void qiudiandiandiandian(View view) {
         Toast.makeText(this, "点点点点带你俺干啥呢", Toast.LENGTH_SHORT).show();
     }
+
+    public void dianji(View view) {
+        Toast.makeText(this, "点击你", Toast.LENGTH_SHORT).show();
+    }
 }
